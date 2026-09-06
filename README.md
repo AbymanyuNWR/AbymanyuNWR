@@ -149,22 +149,22 @@ Sebagai **nilai tambah yang unik**, saya memiliki latar belakang profesional di 
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbymanyuNWR&repo=dashboard-admin-klinik&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff)](https://github.com/AbymanyuNWR/dashboard-admin-klinik)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbymanyuNWR&repo=landing-page-klinik&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff)](https://github.com/AbymanyuNWR/landing-page-klinik)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=AbymanyuNWR&repo=dasbor-admin-klinik&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff)](https://github.com/AbymanyuNWR/dasbor-admin-klinik)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=AbymanyuNWR&repo=landing-page-klinik&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff)](https://github.com/AbymanyuNWR/landing-page-klinik)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbymanyuNWR&repo=agriculture-ai-platform&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff)](https://github.com/AbymanyuNWR/agriculture-ai-platform)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AbymanyuNWR&repo=ABYM-CYBER--Professional-Grade-Cyber-Security-Fra&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff)](https://github.com/AbymanyuNWR/ABYM-CYBER--Professional-Grade-Cyber-Security-Fra)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=AbymanyuNWR&repo=agriculture-ai-platform&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff)](https://github.com/AbymanyuNWR/agriculture-ai-platform)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=AbymanyuNWR&repo=ABYM-CYBER---Professional-Grade-Cyber-Security-Framework&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff)](https://github.com/AbymanyuNWR/ABYM-CYBER---Professional-Grade-Cyber-Security-Framework)
 
 </div>
 
 | # | Proyek | Deskripsi & Untuk Siapa | Tech | Link |
 |:---:|--------|--------------------------|------|------|
-| 1 | **🏥 dashboard-admin-klinik** | Dashboard manajemen data klinik — **dibuat untuk klien klinik nyata** untuk kelola pasien, jadwal, dan laporan. | Python, Full-Stack | [→ Repo](https://github.com/AbymanyuNWR/dashboard-admin-klinik) |
+| 1 | **🏥 dasbor-admin-klinik** | Dashboard manajemen data klinik — **dibuat untuk klien klinik nyata** untuk kelola pasien, jadwal, dan laporan. | Python, Full-Stack | [→ Repo](https://github.com/AbymanyuNWR/dasbor-admin-klinik) |
 | 2 | **🏥 landing-page-klinik** | Landing page profesional klinik — **untuk klien klinik** agar mudah ditemukan pasien & tingkatkan kepercayaan. | Python, Web | [→ Repo](https://github.com/AbymanyuNWR/landing-page-klinik) |
-| 3 | **🏨 Profile-Landing-Page — Bylian Hotel** | Landing page profil hotel — **untuk klien hotel Bylian** sebagai etalase digital & booking info. | Python, Web | [→ Repo](https://github.com/AbymanyuNWR/Profile-Landing-Page--Bylian-Hotel) |
-| 4 | **🛡️ ABYM-CYBER — Professional-Grade-Cyber-Security-Fra** | Framework keamanan siber professional-grade — eksplorasi Python untuk security. | Python | [→ Repo](https://github.com/AbymanyuNWR/ABYM-CYBER--Professional-Grade-Cyber-Security-Fra) |
-| 5 | **🎨 Template-Portfolio-Part-2 — Abymanyu Nur Wakhid** | Template portfolio modern, responsif, siap pakai untuk personal branding. | Python, Web | [→ Repo](https://github.com/AbymanyuNWR/Template-Portfolio-Part-2--Abymanyu-Nur-Wakhid) |
-| 6 | **🚗 Template-Bylian — Rital Otomatif** | Template website untuk bisnis otomotif — **untuk klien bengkel/otomotif**. | Python | [→ Repo](https://github.com/AbymanyuNWR/Template-Bylian--Rital-Otomatif) |
+| 3 | **🏨 Profile-Landing-Page — ByLian Hotel** | Landing page profil hotel — **untuk klien hotel ByLian** sebagai etalase digital & booking info. | Python, Web | [→ Repo](https://github.com/AbymanyuNWR/Profile-Landing-Page---ByLian-Hotel) |
+| 4 | **🛡️ ABYM-CYBER — Professional-Grade-Cyber-Security-Framework** | Framework keamanan siber professional-grade — eksplorasi Python untuk security. | Python | [→ Repo](https://github.com/AbymanyuNWR/ABYM-CYBER---Professional-Grade-Cyber-Security-Framework) |
+| 5 | **🎨 Template-Portofolio-Part-2 — Abymanyu Nur Wakhid Rokhiim** | Template portfolio modern, responsif, siap pakai untuk personal branding. | TypeScript | [→ Repo](https://github.com/AbymanyuNWR/Template-Portofolio-Part-2---Abymanyu-Nur-Wakhid-Rokhiim) |
+| 6 | **🚗 Template-Bylian — Ritel Otomotif** | Template website untuk bisnis otomotif — **untuk klien bengkel/otomotif**. | JavaScript | [→ Repo](https://github.com/AbymanyuNWR/Template-Bylian---Ritel-Otomotif) |
 | 7 | **🌾 agriculture-ai-platform** | Prototype platform pertanian berbasis AI — menggabungkan data & ML untuk insight pertanian. | Python, AI | [→ Repo](https://github.com/AbymanyuNWR/agriculture-ai-platform) |
 
 > 🔥 **Selain repositori di atas, saya juga rutin mengerjakan proyek full-stack custom (React.js / MERN Stack) di luar GitHub untuk berbagai kebutuhan bisnis klien — mulai dari aplikasi bisnis, sistem manajemen, hingga website profil perusahaan. Ini adalah praktik nyata, bukan sekadar latihan.**
@@ -245,17 +245,17 @@ Sebagai **nilai tambah yang unik**, saya memiliki latar belakang profesional di 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AbymanyuNWR&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophy" />
+<img src="https://github-profile-trophy-ruddy.vercel.app/?username=AbymanyuNWR&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophy" />
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbymanyuNWR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff&count_private=true&include_all_commits=true" alt="stats"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AbymanyuNWR&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="streak"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=AbymanyuNWR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff&count_private=true&include_all_commits=true" alt="stats"/>
+<img height="170" src="https://streak-stats.demolab.com?user=AbymanyuNWR&theme=tokyonight&hide_border=true&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="streak"/>
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbymanyuNWR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&langs_count=8" alt="top langs"/>
-<img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=AbymanyuNWR&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff" alt="activity graph"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AbymanyuNWR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=ffffff&langs_count=8" alt="top langs"/>
+<img height="170" src="https://ghchart.rshah.org/AbymanyuNWR" alt="activity graph" />
 
 <br/>
 
