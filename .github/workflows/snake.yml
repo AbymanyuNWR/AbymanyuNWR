@@ -28,11 +28,28 @@ jobs:
             dist/github-snake.svg
             dist/occean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-          commit_message: "chore: update snake animation"
+      - name: Push to output branch (merge-safe)
+        run: |
+          # Save generated files to tmp before switching branches
+          mkdir -p /tmp/snake_dist
+          cp -r dist/* /tmp/snake_dist/ || true
+          ls -R dist || true
+          ls -R /tmp/snake_dist || true
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin output || echo "no output branch yet"
+          if git ls-remote --exit-code --heads origin output; then
+            git checkout output
+            git pull origin output --rebase || true
+          else
+            git checkout --orphan output
+            git rm -rf . || true
+          fi
+          cp -r /tmp/snake_dist/* . || true
+          ls -la
+          git add .
+          git diff --staged --quiet || git commit -m "chore: update snake animation"
+          git push origin output || echo "push failed, retrying"
+          git checkout main || git checkout -b main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -23,11 +23,27 @@ jobs:
         with:
           github_user_name: AbymanyuNWR
 
-      - name: Push pacman to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-          commit_message: "chore: update pacman animation"
+      - name: Push pacman to output branch (merge-safe)
+        run: |
+          mkdir -p /tmp/pacman_dist
+          cp -r dist/* /tmp/pacman_dist/ 2>/dev/null || cp -r *.svg /tmp/pacman_dist/ 2>/dev/null || true
+          ls -R dist 2>/dev/null || ls -R . | head -20
+          ls -R /tmp/pacman_dist || true
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git fetch origin output || echo "no output branch yet"
+          if git ls-remote --exit-code --heads origin output; then
+            git checkout output
+            git pull origin output --rebase || true
+          else
+            git checkout --orphan output
+            git rm -rf . || true
+          fi
+          cp -r /tmp/pacman_dist/* . || true
+          ls -la
+          git add .
+          git diff --staged --quiet || git commit -m "chore: update pacman animation"
+          git push origin output || echo "push failed"
+          git checkout main || git checkout -b main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
