@@ -1,5 +1,6 @@
 <!-- 4K CYBER NEON PREMIUM — FULL 4D IMMERSIVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e1b4b,100:7c3aed&height=220&section=header&text=Abymanyu%20Nur%20Wakhid%20Rokhiim&fontSize=34&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=@bym4nyu%20%E2%80%A2%20Informatics%20Engineering%20%E2%80%A2%20AI%20%26%20Full%E2%80%91Stack%20Developer&descAlignY=57" />
+<img width="100%" src="https://media.giphy.com/media/xT9IgzoKnwFhm/giphy.gif" alt="cyber neon 4K hero" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abymanyu%20Nur%20Wakhid%20Rokhiim&fontSize=32&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=@bym4nyu%20-%20Informatics%20Engineering%20-%20AI%20and%20Full-Stack&descAlignY=58" />
 
 <div align="center">
 
@@ -363,7 +364,7 @@ Saya **aktif membangun WEBSITE FULL-STACK untuk KLIEN NYATA** — teman, kenalan
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:7c3aed&height=120&section=footer&text=Bridging%20Technology%20%26%20Business&fontSize=18&fontColor=ffffff&animation=fadeIn&desc=Cyber%20Neon%20%E2%80%A2%204K%20Premium%20Clean%20%E2%80%A2%20Tegal&descAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Bridging%20Technology%20and%20Business&fontSize=18&fontColor=ffffff&animation=fadeIn&desc=Cyber%20Neon%20-%204K%20Premium%20Clean%20-%20Tegal&descAlignY=75" width="100%"/>
 
 **© 2026 Abymanyu Nur Wakhid Rokhiim — @bym4nyu**
 
