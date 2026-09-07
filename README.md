@@ -1,4 +1,4 @@
-<!-- 4K CYBER NEON PREMIUM — FULL 4D IMMERSIVE -->
+<!-- 4K CYBER NEON PREMIUM - FULL 4D IMMERSIVE -->
 <img width="100%" src="https://media.giphy.com/media/xT9IgzoKnwFhm/giphy.gif" alt="cyber neon 4K hero" />
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abymanyu%20Nur%20Wakhid%20Rokhiim&fontSize=32&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=@bym4nyu%20-%20Informatics%20Engineering%20-%20AI%20and%20Full-Stack&descAlignY=58" />
 
